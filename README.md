@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rex2231/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rex2231/leetcode-solutions/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/rex2231/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0283-move-zeroes](https://github.com/rex2231/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rex2231/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rex2231/leetcode-solutions/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/rex2231/leetcode-solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
