@@ -7,10 +7,10 @@ class Solution:
                 j-=1
             elif nums[i] != val:
                 i+=1
-            elif nums [i] == val and nums[j] != val:
-                nums[i], nums[j] = nums[j], nums[i]
+            elif nums [i] == val:
+                nums[i] = nums[j]
                 j-=1
-                i+1
+                i+=1
         print(nums)
         print(i,j)
         return i
